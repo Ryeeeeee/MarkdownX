@@ -4,6 +4,8 @@
 
 MarkdownX is a Markdown text editor for Android. It follows the principle of Material Design and is easy to use.
 
+![banner](images/GoogleBanner.png)
+
 ## Features
 - Live preview
 - Side-by-side preview on large screen devices
