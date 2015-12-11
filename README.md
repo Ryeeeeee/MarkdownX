@@ -2,15 +2,44 @@
 
 [![Android](http://mudlab9.com/static/image/btn_android.png)](https://play.google.com/store/apps/details?id=com.ryeeeeee.markdownx)
 
-MarkdownX is a Markdown editor for Android. It follows the principle of Material Design and is easy to use.
+MarkdownX is a Markdown text editor for Android. It follows the principle of Material Design and is easy to use.
 
-1. Live preview
-2. Auto save
-3. Convenient input
-4. Supports Github Flavored Markdown
-5. Export Markdown File 
-6. Markdown Syntax Reference
-7. Associate local Markdown files
+## Features
+- Live preview
+- Side-by-side preview on large screen devices
+- Undo & Redo 
+- More powerful actions
+- File manager system
+- Synchronize documents with Dropbox
+- Share as text, markdown/image/HTML file
+- Support sending Long Weibo 
+- Material Design  
+- Autosave 
+- GFM support
 
 If you meet some trouble, or you have some suggestions. contact us at spatblan@gmail.com
+
+## Change Log
+### 1.0.0
+- Live preview
+- Material Design  
+- Autosave 
+- GFM support
+
+### 1.0.1
+- Add Chinese support
+- Fix bugs
+
+### 1.1.0
+- Side-by-side preview on large screen devices
+- Undo & Redo 
+- More intelligent input
+- File manager system
+- Synchronize documents with Dropbox
+- Share as text, markdown/image/HTML file
+- Support sending Long Weibo 
+- New UI 
+- Fix bugs
+
+
 
