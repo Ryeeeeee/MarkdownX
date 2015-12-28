@@ -30,6 +30,9 @@ If you meet some trouble, or you have some suggestions. contact us at spatblan@g
 <img src="images/device-2015-10-31-221554.png" alt="screenshot" title="screenshot" width="256" height="480" />
 
 ## Change Log
+### 1.1.1
+- Add local files search supported
+
 ### 1.1.0
 - Side-by-side preview on large screen devices
 - Undo & Redo 
